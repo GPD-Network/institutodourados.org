@@ -21,7 +21,7 @@ frequently to Brazil to listen, observe, learn, and build our research program.
 
 ### Izabela Mauricio de Rezende, PhD {.bioname}
 
-<div class=role>Director and Chief Epidemiologist</div>
+<div class=role>Director and Chief Scientific Officer</div>
 
 ![](/bio/foto/IzabelaRezende.png){.float-left height=210px}
 
@@ -44,7 +44,7 @@ from the Universidade Federal de Juiz de Fora.
 
 ### Matthew A. Turner, PhD {.bioname}
 
-<div class="role">Chief Social Scientist</div>
+<div class="role">Chief Technology Officer</div>
 
 ![](/bio/foto/MatthewTurner.png){.float-left width=120px style="margin-top:1rem;"}
 
@@ -64,45 +64,12 @@ Mathematics and Physics from Syracuse University. He also worked for several
 years as a software developer.
 
 
-## Scientists {.team-header}
-
-### Manjari Mishra, PhD {.bioname}
-
-<div class=role>Epidemiologist</div>
-
-![](/bio/foto/ManjariMishra.png){.float-left width=120px style="margin-top:1rem;"}
-
-Dr. Mishra is a biophysicist, pharmacologist, and infectious disease biologist
-specializing in analytical sciences and targeted therapeutics. She earned her
-Ph.D. in Membrane Biophysics and Chemical Biology from the Indian Institute of
-Technology Bombay, India, where she studied how pathogenic lipids from
-Mycobacterium tuberculosis alter host cellular functions through membrane
-organization and signaling pathways. Her research has since expanded into
-virology, antiviral strategies, and translational therapeutics, with a focus on
-understanding host–virus interactions and developing approaches for future
-pandemic preparedness.
-
-Dr. Mishra joined Instituto Dourados because she shares its commitment to Indigenous
-health equity and community-centered scientific initiatives to boost autonomy
-and capacity in all marginalized communities. She will advance global
-collaborations, expand research accessibility, and lead new initiatives to
-support equitable healthcare innovation worldwide.
-
-Outside of research, she enjoys cooking, traveling, and mentoring young
-scientists.
-
-
-
 ## Student Interns {.team-header}
 
-Student interns in Brazil The interns studying at the
-Universidade Federal de Grande Dourados in Brazil neighbor the Dourados
-Indigenous Reserve, and so will lead the effort to expand access to our work
-products by residents of the Reserve.
-
-Student interns in the United States focus on increasing the Instituto's
-research capacity by contributing to research, maintaining the Instituto
-Dourados website, and coordinating software contributions across all interns.
+Student interns increase the Instituto's
+visibility and research capacity by managing social media strategy, content
+development, and publishing. Interns also contribute to research and maintain
+the Instituto Dourados website.
 
 ### Mariana Barreto Alcantara {.bioname}
 

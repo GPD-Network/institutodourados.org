@@ -21,7 +21,7 @@ e construir esse trabalho ao lado de nossos colaboradores brasileiros.
 
 ### Izabela Mauricio de Rezende, PhD {.bioname}
 
-<div class="role">Diretora e Epidemiologista-Chefe</div>
+<div class="role">Diretora e Diretora Científica</div>
 
 ![](/bio/foto/IzabelaRezende.png){.float-left height=210px}
 
@@ -45,7 +45,7 @@ Universidade Federal de Juiz de Fora.
 
 ### Matthew A. Turner, PhD {.bioname}
 
-<div class="role">Cientista Social-Chefe</div>
+<div class="role">Diretor da Tecnologia</div>
 
 ![](/bio/foto/MatthewTurner.png){.float-left width=120px style="margin-top:1rem;"}
 
@@ -63,33 +63,6 @@ Ciências Cognitivas e da Informação pela University of California, Merced,
 mestre em Física Aplicada pela Rice University e bacharel em Matemática e Física
 pela Syracuse University. Também trabalhou durante vários anos como
 desenvolvedor de software.
-
-## Cientistas {.team-header}
-
-### Manjari Mishra, PhD {.bioname}
-
-<div class="role">Epidemiologista</div>
-
-![](/bio/foto/ManjariMishra.png){.float-left width=120px style="margin-top:1rem;"}
-
-A Dra. Mishra é biofísica, farmacologista e bióloga especializada em doenças
-infecciosas, com atuação em ciências analíticas e terapias direcionadas.
-Concluiu seu doutorado em Biofísica de Membranas e Biologia Química no Indian
-Institute of Technology Bombay, onde investigou como lipídios patogênicos de
-*Mycobacterium tuberculosis* alteram funções celulares por meio da organização
-de membranas e de vias de sinalização. Desde então, sua pesquisa expandiu-se
-para virologia, estratégias antivirais e terapias translacionais, com foco na
-compreensão das interações entre hospedeiros e vírus e no desenvolvimento de
-abordagens para futuras pandemias.
-
-A Dra. Mishra integra o Instituto Dourados por compartilhar nosso compromisso
-com a equidade em saúde indígena e com iniciativas científicas centradas nas
-comunidades para fortalecer autonomia e capacidade em populações historicamente
-marginalizadas. Ela contribuirá para ampliar colaborações internacionais,
-expandir o acesso à pesquisa e liderar novas iniciativas voltadas à inovação em
-saúde.
-
-Fora da pesquisa, gosta de cozinhar, viajar e orientar jovens cientistas.
 
 ## Estudantes Bolsistas {.team-header}
 
