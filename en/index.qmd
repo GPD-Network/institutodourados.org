@@ -16,6 +16,10 @@ sustainable scientific and computational infrastructure that communities can
 own, operate, and improve themselves. Learn more about our long-term vision on
 our [Mission](mission.qmd) page.
 
+![Group photo with students, teachers, and visiting family at the Guateka
+Academy after Instituto Dourados' workshop there, August 26,
+2026.](/imagens/guateka-group-photo.jpg){width=480px .lightbox}
+
 By openly documenting our methods, software, and research whenever possible, we
 hope others can build on our successes and learn from our challenges.
 
@@ -41,19 +45,6 @@ With our 501(c)(3) status now in place, we are launching our first fundraising c
 During the remainder of 2026, we will recruit and train our first four interns from the Universidade Federal da Grande Dourados (UFGD), visit our partners in Dourados, deliver public lectures and workshops, and continue building our programs alongside the Indigenous communities we serve.
 
 A detailed overview of our planned activities, budget, and long-term fundraising goals is available on the [Instituto Dourados section of the GPD website](https://gpdamericas.org/institutodourados).
-
-
-<!-- <!-1- ***  GO FUND ME EMBED gfm-embed  *** -1-> --> <!-- <div --> <!--   class="gfm-embed" --> <!--   data-url="https://www.gofundme.com/f/launch-an-exchange-program-to-boost-indigenous-public-health/widget/large?sharesheet=undefined&attribution_id=sl:ba86e4ce-71f4-4aab-b267-c30e9bf546a7" --> <!-- > --> <!-- </div> --> <!-- <script defer src="https://www.gofundme.com/static/js/embed.js"></script> --> <!-- <!-1- ***  END GO FUND ME EMBED  *** -1-> -->
-
-
-<!-- For gifts of up to \$1,000, we invite you to support us through our GoFundMe campaign. -->
-
-<!-- If you are considering a larger contribution, please contact the Giving team at -->
-<!-- our parent organization, the Generation of Participation in Democracy (GPD), at -->
-<!-- [giving@gpdamericas.org](mailto:giving@gpdamericas.org). Donations made directly -->
-<!-- help us avoid GoFundMe processing fees, allowing more of your contribution to -->
-<!-- support our programs. -->
-
 
 
 ### Stay Connected

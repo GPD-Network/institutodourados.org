@@ -7,82 +7,45 @@ lang: pt
 Nossa Equipe
 :::
 
-## Liderança Fundadora {.team-header}
-
 O *Instituto Dourados* nasceu quando dois pesquisadores de Stanford, uma do
 Brasil e outro dos Estados Unidos, receberam bolsas de pesquisa para aplicar
-técnicas analíticas avançadas ao fortalecimento da preparação para futuras
-pandemias.
+técnicas analíticas avançadas ao fortalecimento da preparação para pandemias.
 
-Essa colaboração inicial permitiu que desenvolvêssemos nosso programa de
-pesquisa em conjunto e aprofundássemos nossas parcerias no Brasil. Desde então,
-ambos os fundadores viajam regularmente ao país para ouvir, observar, aprender
-e construir esse trabalho ao lado de nossos colaboradores brasileiros.
+Essas bolsas nos permitiram desenvolver um programa de pesquisa conjunto com
+nossos parceiros brasileiros. Ambos os fundadores viajaram com frequência ao
+Brasil para ouvir, observar, aprender e construir o programa em conjunto.
 
-### Izabela Mauricio de Rezende, PhD {.bioname}
+## Izabela Mauricio de Rezende, PhD {.bioname}
 
-<div class="role">Diretora e Diretora Científica</div>
+<div class="role">Fundadora e Diretora</div>
 
 ![](/bio/foto/IzabelaRezende.png){.float-left height=210px}
 
 A Dra. Rezende é virologista e pesquisadora na Faculdade de Medicina da
 Universidade Stanford, onde lidera estudos interdisciplinares sobre
 epidemiologia de doenças infecciosas e evolução viral. Seu trabalho integra
-vigilância genômica e intervenções em saúde pública para proteger populações
-vulneráveis, especialmente a partir das lições aprendidas durante a pandemia de
+vigilância genômica e intervenções em saúde pública para proteger melhor as
+populações vulneráveis, com base nas lições aprendidas durante a pandemia de
 COVID-19 no Brasil.
 
-No Instituto, Izabela coordena o recrutamento e as atividades do Conselho
+No Instituto, Izabela lidera o recrutamento e a coordenação do Conselho
 Científico Consultivo, garantindo que nossas iniciativas sejam fundamentadas em
-pesquisa rigorosa e colaboração internacional. Ela dedica-se ao fortalecimento
-de parcerias sustentáveis entre instituições locais, como a Universidade Federal
-da Grande Dourados (UFGD), e centros internacionais de pesquisa para promover a
-equidade em saúde indígena.
+pesquisa rigorosa e colaboração internacional. Ela se dedica a estabelecer
+parcerias de pesquisa sustentáveis entre instituições locais, como a
+Universidade Federal da Grande Dourados (UFGD), e centros internacionais de
+pesquisa para promover a equidade em saúde indígena.
 
 Izabela é doutora em Microbiologia/Virologia pela Universidade Federal de Minas
 Gerais, mestre em Doenças Infecciosas e bacharel em Ciências Biológicas pela
 Universidade Federal de Juiz de Fora.
 
-### Matthew A. Turner, PhD {.bioname}
+## Mariana Barreto Alcantara {.bioname}
 
-<div class="role">Diretor da Tecnologia</div>
-
-![](/bio/foto/MatthewTurner.png){.float-left width=120px style="margin-top:1rem;"}
-
-O Dr. Turner é cientista social quantitativo e desenvolve pesquisa
-translacional voltada à construção de sociedades mais sustentáveis. Em 2023,
-recebeu o prêmio *Diversity and Social Inequality Award* da Cognitive Science
-Society por demonstrar como sociedades se tornam mais bem-sucedidas quando
-incluem grupos minoritários em seus processos de adaptação. Para ele, a saúde
-pública faz parte da sustentabilidade: uma população saudável é condição
-fundamental para a participação em sistemas sustentáveis.
-
-O Dr. Turner desenvolveu e ministrou disciplinas em ciência social quantitativa
-na Stanford Doerr School of Sustainability da Universidade Stanford. É doutor em
-Ciências Cognitivas e da Informação pela University of California, Merced,
-mestre em Física Aplicada pela Rice University e bacharel em Matemática e Física
-pela Syracuse University. Também trabalhou durante vários anos como
-desenvolvedor de software.
-
-## Estudantes Bolsistas {.team-header}
-
-Os estudantes bolsistas no Brasil, vinculados à Universidade Federal da Grande
-Dourados, desenvolvem suas atividades próximos à Reserva Indígena de Dourados e
-ajudam a ampliar o acesso da comunidade aos produtos e materiais desenvolvidos
-pelo Instituto.
-
-Os estudantes nos Estados Unidos contribuem para ampliar a capacidade de
-pesquisa do Instituto, participando de projetos científicos, da manutenção do
-site institucional e da coordenação de contribuições de software entre os
-bolsistas.
-
-### Mariana Barreto Alcantara {.bioname}
-
-<div class="role">Pesquisadora Bolsista</div>
+<div class="role">Líder de Desenvolvimento de Comunicação</div>
 
 ![](/bio/foto/MarianaAlcantara.png){.float-left style="margin-top:1rem;"}
 
-Mariana é estudante do primeiro ano da University of California, Berkeley,
+Mariana é estudante do segundo ano da University of California, Berkeley,
 onde cursa dupla graduação em Neurociência e Administração de Empresas.
 Natural de Salvador, Bahia, viveu os últimos quatro anos nos Estados Unidos.
 Seu objetivo é aplicar os conhecimentos desenvolvidos no Instituto Dourados para
@@ -98,35 +61,37 @@ computacional, desenvolvendo sistemas para visualização de dados em saúde
 pública e identificação dos fatores sociais que mais influenciam a disseminação
 de doenças em diferentes contextos.
 
-## Pesquisadores da UFGD que Atuam em Pesquisa na Temática de Saúde Indígena {.team-header}
+## Matthew A. Turner, PhD {.bioname}
 
-- Profesora. Simone Simionatto — UFGD •
-  [ResearchGate](https://www.researchgate.net/profile/Simone-Simionatto)
-- Profesor Matheus de Carvalho Hernandez — UFGD •
-  [ResearchGate](https://www.researchgate.net/profile/Matheus-De-Carvalho-Hernandez)
-- Laís Albuquerque de Oliveira — UFGD •
-  [LinkedIn](https://www.linkedin.com/in/la%C3%ADsalbuquerque/?originalSubdomain=br)
-- Caio Gustavo Simonelli — UFGD •
-  [Currículo Lattes](http://lattes.cnpq.br/5480881995742161)
+<div class="role">Cofundador e Líder de Desenvolvimento Educacional</div>
+
+![](/bio/foto/MatthewTurner.png){.float-left width=120px style="margin-top:1rem;"}
+
+O Dr. Turner é cientista social quantitativo e promove a pesquisa translacional
+para tornar as sociedades sustentáveis a escolha mais atraente e viável. Em
+2023, por exemplo, recebeu o prêmio *Diversity and Social Inequality Award* na
+conferência da Cognitive Science Society por demonstrar o quanto as
+sociedades podem se tornar mais bem-sucedidas quando incluem todos os grupos
+minoritários em seus esforços de adaptação. A sustentabilidade inclui a saúde
+pública, pois uma população saudável é condição fundamental para a participação
+em sistemas sustentáveis.
+
+O Dr. Turner desenvolveu e ministrou disciplinas em ciência social quantitativa
+na Stanford Doerr School of Sustainability. É doutor em Ciências Cognitivas e
+da Informação pela University of California, Merced, mestre em Física Aplicada
+pela Rice University e bacharel em Matemática e Física pela Syracuse
+University. Também trabalhou durante vários anos como desenvolvedor de
+software.
+
+## Assessores da UFGD em Saúde Pública Indígena {.team-header}
+
+-   Professora Simone Simionatto — UFGD •
+    [ResearchGate](https://www.researchgate.net/profile/Simone-Simionatto)
+-   Professor Matheus de Carvalho Hernandez — UFGD •
+    [ResearchGate](https://www.researchgate.net/profile/Matheus-De-Carvalho-Hernandez)
+-   Laís Albuquerque de Oliveira — UFGD •
+    [LinkedIn](https://www.linkedin.com/in/la%C3%ADsalbuquerque/?originalSubdomain=br)
 
 ![A fundadora Dra. Rezende com a Dra. Simone Simionatto e a pós-graduanda Laís
 Albuquerque de Oliveira no MedTrop 2024, em São
 Paulo.](/imagens/selected/simone-lais-iza.jpg){width=350px}
-
-
-## Apoio Fundador {.team-header}
-
-O Instituto Dourados tornou-se possível graças ao apoio da Sra. Jill
-Freidenrich, cujo financiamento proporcionou bolsas e apoio à pesquisa para os
-Drs. Rezende e Turner no Pandemic Preparedness Hub da Faculdade de Medicina da
-Universidade Stanford. Esse apoio permitiu que a Dra. Rezende iniciasse a
-colaboração com a Profa. Simone Simionatto, à qual o Dr. Turner se integrou
-posteriormente.
-
-<br>
-
-![**Da esquerda para a direita: Laís Albuquerque, Caio Simonelli, Simone
-Simionatto e Matt Turner** no Hospital da Reserva Indígena de Dourados. A placa
-ao fundo informa que o Sistema Único de Saúde (SUS) oferece atendimento gratuito
-e universal, garantindo a todas as pessoas o direito a serviços de saúde de
-qualidade.](/imagens/clipboard-3055226108.png){fig-align="center" .lightbox width=420px}

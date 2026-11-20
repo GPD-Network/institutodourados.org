@@ -18,6 +18,8 @@ para desenvolver infraestrutura científica e computacional sustentável que as
 próprias comunidades possam operar, manter e aperfeiçoar. Saiba mais sobre nossa
 visão de longo prazo na página de [Missão](mission.qmd).
 
+![Foto de grupo com estudantes, professores e familiares que estavam de visita à Escola Guateka, após a oficina do Instituto Dourados, em 26 de agosto de 2026.](/imagens/guateka-group-photo.jpg){width=480px .lightbox}
+
 Ao documentarmos abertamente nossos métodos, softwares e pesquisas sempre que
 possível, esperamos que outras pessoas e organizações possam ampliar nossos
 sucessos e aprender com nossos desafios.
@@ -30,44 +32,14 @@ Grande Dourados (UFGD).
 ### Organização Beneficente 501(c)(3)
 
 As doações destinadas ao Instituto Dourados são dedutíveis do imposto de renda
-nos Estados Unidos. Somos um Instituto-Bandeira da organização beneficente
+nos Estados Unidos. Somos um Instituto  da organização beneficente
 reconhecida pelo governo federal dos Estados Unidos como isenta de impostos sob
 a seção 501(c)(3), a [Generation of Participation in Democracy
 (GPD)](https://gpd.network).
 
 <span style="font-size: 1.075rem;">**Employer Identification Number (EIN): 41-4992913**</span>
 
-A Generation of Participation in Democracy é uma corporação de benefício público registrada no Estado da Califórnia e em conformidade com as exigências do Departamento de Justiça da Califórnia para organizações beneficentes.
-
-
-<!-- ### Ajude a Lançar o Instituto Dourados -->
-
-<!-- Com nosso reconhecimento como organização beneficente 501(c)(3), iniciamos nossa -->
-<!-- primeira campanha de arrecadação de recursos em apoio ao Instituto Dourados. -->
-
-<!-- Até o final de 2026, recrutaremos e capacitaremos nossos quatro primeiros -->
-<!-- estagiários da Universidade Federal da Grande Dourados (UFGD), visitaremos -->
-<!-- nossos parceiros em Dourados, ofereceremos palestras e oficinas e continuaremos -->
-<!-- desenvolvendo nossos programas em colaboração com as comunidades indígenas com -->
-<!-- as quais trabalhamos. -->
-
-<!-- Uma descrição detalhada de nossas atividades planejadas, orçamento e metas de -->
-<!-- captação de recursos está disponível na [página do Instituto Dourados no site da -->
-<!-- GPD](https://gpdamericas.org/institutodourados). -->
-
-<!-- <div class="gfm-embed" -->
-<!-- data-url="https://www.gofundme.com/f/launch-an-exchange-program-to-boost-indigenous-public-health/widget/large?sharesheet=undefined&attribution_id=sl:ba86e4ce-71f4-4aab-b267-c30e9bf546a7"></div><script -->
-<!-- defer src="https://www.gofundme.com/static/js/embed.js"></script> -->
-
-<!-- Para doações de até US$ 1.000, convidamos você a apoiar nosso trabalho por meio -->
-<!-- de nossa campanha no GoFundMe. -->
-
-<!-- Caso esteja considerando uma contribuição de maior valor, entre em contato com a -->
-<!-- equipe de captação de recursos de nossa organização mantenedora, a Generation of -->
-<!-- Participation in Democracy (GPD), pelo e-mail -->
-<!-- [giving@gpdamericas.org](mailto:giving@gpdamericas.org). As doações feitas -->
-<!-- diretamente ajudam a evitar as taxas cobradas pelo GoFundMe, permitindo que uma -->
-<!-- parcela maior de sua contribuição seja destinada aos nossos programas. -->
+A Generation of Participation in Democracy é uma corporação de benefício público, sem fins lucrativos, registrada no Estado da Califórnia e em conformidade com as exigências do Departamento de Justiça da Califórnia para organizações beneficentes.
 
 
 
