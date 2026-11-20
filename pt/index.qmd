@@ -1,6 +1,8 @@
 ---
 title: Início
 lang: pt
+aliases:
+  - /index.html
 ---
 
 ::: {#index-subtitle}

@@ -16,11 +16,9 @@ website:
 
   page-footer:
     left: |
-      [Accessibility](/accessibility.qmd) · [Privacy](/privacy.qmd)
-    center: |
-      Written by Matt Turner © 2026 Instituto Dourados
+      [Accessibility](/accessibility.qmd) · [Privacy](/privacy.qmd) · [Contact](mailto:contato@institutodourados.org)
     right: |
-      [Contact](mailto:contato@institutodourados.org)
+      © 2026 Instituto Dourados
 
 languages:
   pt:

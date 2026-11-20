@@ -444,8 +444,38 @@ div.large-link {
 /* ============================================
    HERO FIX — MOBILE
 ============================================ */
+// @media (max-width: 575px) {
+
+//   footer.footer div.nav-footer {
+//     position: fixed;
+//     width: 100%;
+//     background: #333;
+//     font-size: 0.8 rem;
+//   }
+
+//   div.nav-footer-right {
+//     margin-bottom: -30px;
+//   }
+
+// }
+
+div.nav-footer-center {
+  display: none;
+}
 
 @media (max-width: 700px) {
+
+  footer.footer div.nav-footer {
+    position: fixed;
+    width: 100%;
+    background: #333;
+    font-size: 0.8 rem;
+  }
+
+  div.nav-footer-right {
+    padding-bottom: 10px;
+  }
+
 
   .hero-header {
     height: auto;              /* critical */
@@ -543,13 +573,13 @@ div.large-link {
 
 footer.footer div.nav-footer {
   position: fixed;
-  bottom: -1.3rem;
+  bottom: -1.5rem;
   // bottom: 0;
   // margin-bottom: 0.05rem;
   width: 100%;
   background: #333;
-  font-size: 1rem;
   color: #AAA;
+
 
   p {
     margin-top: 0;
@@ -561,3 +591,4 @@ footer.footer div.nav-footer {
     color: $heading-color;
   }
 }
+
